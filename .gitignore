@@ -1,2 +1,3 @@
-SmallProblems.xcodeproj/xcuserdata/*
-SmallProblems.xcodeproj/project.xcworkspace/xcuserdata/*
+SmallProblems.xcodeproj/xcuserdata/**
+SmallProblems.xcodeproj/project.xcworkspace/xcuserdata/**
+**.xcuserstate
