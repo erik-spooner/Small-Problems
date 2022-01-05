@@ -6,8 +6,17 @@
 
 import Foundation
 
-// Given a array of Stings, a start String and an end String deterimine if a path exists from the start to the end.
+// Given a array of Stings, a start String and an end String deterimine if a path exists from the start to the end through the array of strings (start and end need not be part of the array).
 // Two strings A, and B can form a path AB if the last character of A and the first character of B are the same.
+// ex alfred -> dave
+
+/* Examples
+ * Input : (["alfred", "ben", "cindy", "dave", "erin"], start: "ana", end: "noelle")
+ * Output : true
+ *
+ * Input : (["story", "book", "novel", "author", "read"], start: "banana", end: "lime")
+ *
+ */
 
 func pathToString(_ strings: [String], start: String, end: String) -> Bool {
   

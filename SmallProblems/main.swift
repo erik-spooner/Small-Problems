@@ -1,11 +1,12 @@
-//
-//  main.swift
-//  SmallProblems
-//
-//  Created by Erik Spooner on 2021-12-20.
-//
+/*
+ * Just a collection of small coding problems. Just uncomment and change the input of the function you want to see
+ *
+ */
+
 
 import Foundation
 
-print("Hello, World!")
+/* String Path */
+//print(pathToString(["alfred", "berry", "cindy", "dave", "erin"], start: "ana", end: "noelle"))
+
 
