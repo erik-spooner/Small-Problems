@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03859A1B278A4180009F4855 /* Redundant Connection II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03859A1A278A4180009F4855 /* Redundant Connection II.swift */; };
 		03AE37E527714055005551CE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03AE37E427714055005551CE /* main.swift */; };
 		03AE37ED2771406B005551CE /* String Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03AE37EC2771406B005551CE /* String Path.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		03859A1A278A4180009F4855 /* Redundant Connection II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Redundant Connection II.swift"; sourceTree = "<group>"; };
 		03AE37E127714055005551CE /* SmallProblems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SmallProblems; sourceTree = BUILT_PRODUCTS_DIR; };
 		03AE37E427714055005551CE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		03AE37EC2771406B005551CE /* String Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String Path.swift"; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				03AE37E427714055005551CE /* main.swift */,
+				03859A1A278A4180009F4855 /* Redundant Connection II.swift */,
 				03AE37EC2771406B005551CE /* String Path.swift */,
 			);
 			path = SmallProblems;
@@ -122,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03859A1B278A4180009F4855 /* Redundant Connection II.swift in Sources */,
 				03AE37ED2771406B005551CE /* String Path.swift in Sources */,
 				03AE37E527714055005551CE /* main.swift in Sources */,
 			);
